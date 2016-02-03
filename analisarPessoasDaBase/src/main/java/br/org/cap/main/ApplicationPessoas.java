@@ -11,7 +11,7 @@ public class ApplicationPessoas {
 		LeitorDeArquivoXlsx leitor = new LeitorDeArquivoXlsx();
 		List<Planilha> lista = leitor.geraLista();
 		
-		PessoasController pController = new PessoasController();
-		pController.compararDadosDa(lista);
+	//	PessoasController pController = new PessoasController();
+	//	pController.compararDadosDa(lista);
 	}
 }
