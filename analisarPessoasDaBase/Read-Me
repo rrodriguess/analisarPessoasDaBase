@@ -1,0 +1,35 @@
+
+Programa de comparação de Pessoas entre Planilha e Base de Dados.
+
+Pacotes
+
+Main
+
+Pacote que possui a classe inicializado do Java (main)
+
+Controllers
+
+Pacote que possui classes intermediárias responsáveis pela lógica do programa. 
+Interagem entre o banco de dados e saída de dados.
+
+Dao
+
+Pacote responsável por armazenar a classes que acessam o banco de dados.
+
+Utils
+
+Pacote que possui classes responsáveis por armanezar classes com tarefas
+pré-definidas.
+
+Models
+
+Pacote que armazena as classes que referênciam as entidades do banco e dos dataSources.
+
+Como usar
+
+Ao clonar o projeto vá até a classe ApplicationPessoas, dentro do pacote main e 
+execute o programa.
+Após o término do programa, vá até pasta arquivo e verifique o arquivo dadosDivergentes.txt se 
+constam os dados da pesquisa gravado.
+
+
